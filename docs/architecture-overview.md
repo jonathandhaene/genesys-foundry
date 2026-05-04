@@ -2,7 +2,7 @@
 
 ## The "Surround" Philosophy
 
-Genesys Surround is built on a fundamental principle: **AI should not live inside your contact center platform — it should surround it.**
+Contact Center Foundry is built on a fundamental principle: **AI should not live inside your contact center platform — it should surround it.**
 
 Traditional approaches embed AI features directly into telephony systems or CRM products. This creates vendor lock-in, fragmented knowledge, and duplicated costs. The surround approach instead:
 

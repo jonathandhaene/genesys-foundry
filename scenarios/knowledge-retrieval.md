@@ -4,13 +4,13 @@
 
 Enterprise knowledge is typically fragmented across multiple systems: SharePoint, ServiceNow KB, Salesforce Knowledge, Zendesk Help Center, internal wikis, policy documents, and more. Agents must search each system separately — often during live interactions — leading to delays, inconsistency, and errors.
 
-Genesys Surround provides a **unified semantic knowledge layer** that indexes all enterprise knowledge sources and makes them searchable through a single, AI-powered interface.
+Contact Center Foundry provides a **unified semantic knowledge layer** that indexes all enterprise knowledge sources and makes them searchable through a single, AI-powered interface.
 
 ---
 
 ## Problem It Solves
 
-| Problem | Traditional State | With Genesys Surround |
+| Problem | Traditional State | With Contact Center Foundry |
 |---|---|---|
 | Multiple KB systems | Agent searches 3–5 systems per query | One unified search |
 | Inconsistent answers | Different sources give different answers | Conflict detection and resolution |

@@ -2,7 +2,7 @@
 
 ## Why Governance Is a First-Class Capability
 
-In regulated industries and security-conscious enterprises, AI adoption fails not because of technology — but because of trust. Genesys Surround is built with governance as a **platform-level capability**, not a compliance checkbox applied after the fact.
+In regulated industries and security-conscious enterprises, AI adoption fails not because of technology — but because of trust. Contact Center Foundry is built with governance as a **platform-level capability**, not a compliance checkbox applied after the fact.
 
 The governance model answers four fundamental questions that every CISO, DPO, and board member will ask:
 

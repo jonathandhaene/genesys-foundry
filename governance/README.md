@@ -1,6 +1,6 @@
 # Governance
 
-Genesys Surround is built for regulated and security-conscious environments. Governance is not an add-on — it is a foundational platform capability.
+Contact Center Foundry is built for regulated and security-conscious environments. Governance is not an add-on — it is a foundational platform capability.
 
 ## Contents
 

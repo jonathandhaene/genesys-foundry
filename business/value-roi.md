@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Genesys Surround delivers measurable return on investment through efficiency improvements, quality uplift, and compliance risk reduction — typically achieving **payback within 12–18 months** of full deployment.
+Contact Center Foundry delivers measurable return on investment through efficiency improvements, quality uplift, and compliance risk reduction — typically achieving **payback within 12–18 months** of full deployment.
 
 ---
 
@@ -106,7 +106,7 @@ Genesys Surround delivers measurable return on investment through efficiency imp
 
 ## Risk-Adjusted Value
 
-Unlike point solutions, Genesys Surround provides **platform-level value** that:
+Unlike point solutions, Contact Center Foundry provides **platform-level value** that:
 
 1. **Compounds over time** — each new CRM or channel added increases value without rebuilding AI
 2. **Reduces stranded investment risk** — platform survives system changes

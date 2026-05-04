@@ -10,7 +10,7 @@ The AI never responds to the customer directly. It acts as a **silent, intellige
 
 ## Problem It Solves
 
-| Problem | Without AI | With Genesys Surround |
+| Problem | Without AI | With Contact Center Foundry |
 |---|---|---|
 | Finding the right answer | Agent searches 3–5 systems manually | AI surfaces top answer instantly |
 | Inconsistent responses | Each agent finds different information | All agents see the same grounded answer |

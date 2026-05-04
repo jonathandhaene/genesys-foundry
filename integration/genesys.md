@@ -2,7 +2,7 @@
 
 ## Integration Overview
 
-Genesys is the **primary contact center platform** in the Genesys Surround reference architecture. The integration connects to Genesys Cloud (preferred) and Genesys Engage (on-premises) via their official APIs and notification services.
+Genesys is the **primary contact center platform** in the Contact Center Foundry reference architecture. The integration connects to Genesys Cloud (preferred) and Genesys Engage (on-premises) via their official APIs and notification services.
 
 **Critical principle**: The Genesys telephony core is **not modified**. No custom code is injected into the Genesys platform. All integration is via Genesys' published APIs and event services.
 

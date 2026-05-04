@@ -2,13 +2,13 @@
 
 ## Integration Overview
 
-Microsoft Dynamics 365 is a natural complement to Genesys Surround given the shared Microsoft technology foundation. The integration leverages the **Microsoft Dataverse API**, **Power Platform connectors**, and **Microsoft Graph**.
+Microsoft Dynamics 365 is a natural complement to Contact Center Foundry given the shared Microsoft technology foundation. The integration leverages the **Microsoft Dataverse API**, **Power Platform connectors**, and **Microsoft Graph**.
 
 ---
 
 ## Authentication
 
-- **OAuth 2.0** via Microsoft Entra ID (same identity provider as the Genesys Surround platform)
+- **OAuth 2.0** via Microsoft Entra ID (same identity provider as the Contact Center Foundry platform)
 - Dedicated Entra ID app registration with Dataverse API scoped permissions
 - Service principal with minimum required roles
 - Credentials managed via Azure Key Vault + Managed Identity chain
@@ -80,7 +80,7 @@ POST /api/data/v9.2/phonecalls
 
 ## Knowledge Base Integration
 
-Dynamics 365 Knowledge Articles are indexed into the Genesys Surround Knowledge Layer:
+Dynamics 365 Knowledge Articles are indexed into the Contact Center Foundry Knowledge Layer:
 
 ```
 GET /api/data/v9.2/knowledgearticles?
@@ -96,7 +96,7 @@ GET /api/data/v9.2/knowledgearticles?
 
 ## Power Platform Integration (Optional)
 
-For organisations using Power Automate, Genesys Surround publishes events to a **custom connector** that can trigger Power Automate flows:
+For organisations using Power Automate, Contact Center Foundry publishes events to a **custom connector** that can trigger Power Automate flows:
 
 - On interaction summary available → trigger D365 case update flow
 - On compliance flag → trigger D365 compliance workflow

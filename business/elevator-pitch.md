@@ -2,7 +2,7 @@
 
 ## The One-Paragraph Version
 
-> Genesys Surround is a system-independent AI platform that wraps around your existing contact center, CRM, and ITSM systems — without modifying any of them. It gives every agent a real-time AI copilot, unifies your enterprise knowledge across Genesys, Dynamics 365, Salesforce, and ServiceNow, and delivers 100% interaction monitoring for compliance — all governed under a single, enterprise-grade framework. Instead of buying fragmented AI from each vendor, you build one shared AI platform that scales across all your systems, survives any future technology change, and delivers measurable ROI within 12 months.
+> Contact Center Foundry is a system-independent AI platform that wraps around your existing contact center, CRM, and ITSM systems — without modifying any of them. It gives every agent a real-time AI copilot, unifies your enterprise knowledge across Genesys, Dynamics 365, Salesforce, and ServiceNow, and delivers 100% interaction monitoring for compliance — all governed under a single, enterprise-grade framework. Instead of buying fragmented AI from each vendor, you build one shared AI platform that scales across all your systems, survives any future technology change, and delivers measurable ROI within 12 months.
 
 ---
 
@@ -10,7 +10,7 @@
 
 > Most companies are buying AI from Genesys, then from Salesforce, then from ServiceNow — and ending up with three fragmented, expensive, ungoverned AI investments.
 >
-> Genesys Surround is the alternative: one AI platform that surrounds all of those systems. Agents get real-time assistance regardless of which CRM they're in. Knowledge is unified across every system. Compliance is monitored on 100% of interactions, not 5%.
+> Contact Center Foundry is the alternative: one AI platform that surrounds all of those systems. Agents get real-time assistance regardless of which CRM they're in. Knowledge is unified across every system. Compliance is monitored on 100% of interactions, not 5%.
 >
 > We don't touch your telephony or your CRM. We just make every agent smarter, every supervisor better informed, and every interaction more compliant — from day one.
 
@@ -42,7 +42,7 @@
 
 ## The Differentiator Table
 
-| Capability | Vendor-Embedded AI | Genesys Surround |
+| Capability | Vendor-Embedded AI | Contact Center Foundry |
 |---|---|---|
 | Works across all CRMs | ❌ One CRM only | ✅ All connected CRMs |
 | Survives CRM migration | ❌ Must rebuild | ✅ Platform persists |
@@ -56,6 +56,6 @@
 
 ## Call to Action
 
-> The next step is a **half-day architecture workshop** to map Genesys Surround to your specific ecosystem, identify the highest-impact Phase 1 use cases, and produce a tailored business case.
+> The next step is a **half-day architecture workshop** to map Contact Center Foundry to your specific ecosystem, identify the highest-impact Phase 1 use cases, and produce a tailored business case.
 >
 > **What you leave with**: a reference architecture for your environment, a prioritised use case backlog, and an ROI estimate based on your own interaction volumes and baselines.

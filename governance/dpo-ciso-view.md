@@ -2,13 +2,13 @@
 
 ## Executive Summary
 
-This document addresses the most important questions that a **Data Protection Officer (DPO)** and **Chief Information Security Officer (CISO)** will ask about the Genesys Surround platform. It is designed to support internal review, security due diligence, and Data Protection Impact Assessments (DPIA).
+This document addresses the most important questions that a **Data Protection Officer (DPO)** and **Chief Information Security Officer (CISO)** will ask about the Contact Center Foundry platform. It is designed to support internal review, security due diligence, and Data Protection Impact Assessments (DPIA).
 
 ---
 
-## What Is Genesys Surround?
+## What Is Contact Center Foundry?
 
-Genesys Surround is an AI platform that provides real-time assistance to contact center agents. It:
+Contact Center Foundry is an AI platform that provides real-time assistance to contact center agents. It:
 
 - **Reads** interaction data from contact center platforms (e.g., Genesys) and CRM systems
 - **Processes** that data using large language models (Azure OpenAI) to generate suggestions for agents
@@ -53,7 +53,7 @@ A DPIA is likely required when:
 - Processing uses new technology (LLMs, AI-based quality scoring)
 - Processing involves special category data (health information in healthcare contact centers)
 
-Genesys Surround provides a **DPIA template** that organisations can adapt, covering:
+Contact Center Foundry provides a **DPIA template** that organisations can adapt, covering:
 - Processing activities and purposes
 - Necessity and proportionality assessment
 - Risk identification and mitigation

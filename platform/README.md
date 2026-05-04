@@ -1,6 +1,6 @@
 # Platform Overview
 
-The Genesys Surround platform is composed of discrete, independently deployable services. This modular architecture allows organisations to adopt the platform incrementally — starting with the capabilities most aligned to immediate business priorities.
+The Contact Center Foundry platform is composed of discrete, independently deployable services. This modular architecture allows organisations to adopt the platform incrementally — starting with the capabilities most aligned to immediate business priorities.
 
 ## Core Services
 

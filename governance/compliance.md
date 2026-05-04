@@ -2,7 +2,7 @@
 
 ## Regulatory Philosophy
 
-Genesys Surround does not treat compliance as a checkbox. It is designed so that compliance obligations are **embedded into the platform's data handling, AI processing, and audit capabilities** — making it easier to be compliant than not.
+Contact Center Foundry does not treat compliance as a checkbox. It is designed so that compliance obligations are **embedded into the platform's data handling, AI processing, and audit capabilities** — making it easier to be compliant than not.
 
 ---
 
@@ -82,7 +82,7 @@ The primary PCI-DSS compliance strategy is **scope minimisation** — ensuring t
 
 ## EU AI Act
 
-Genesys Surround's use in contact centers may qualify as a **high-risk AI system** under Annex III of the EU AI Act (specifically: AI systems used in employment and critical private services). The platform is designed to meet anticipated high-risk requirements:
+Contact Center Foundry's use in contact centers may qualify as a **high-risk AI system** under Annex III of the EU AI Act (specifically: AI systems used in employment and critical private services). The platform is designed to meet anticipated high-risk requirements:
 
 | EU AI Act Requirement | Platform Support |
 |---|---|

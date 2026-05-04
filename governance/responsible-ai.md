@@ -2,7 +2,7 @@
 
 ## Commitment
 
-Genesys Surround is built in alignment with **Microsoft's Responsible AI Standard** and the six responsible AI principles. This document describes how those principles are operationalised within the platform.
+Contact Center Foundry is built in alignment with **Microsoft's Responsible AI Standard** and the six responsible AI principles. This document describes how those principles are operationalised within the platform.
 
 ---
 
@@ -84,7 +84,7 @@ Genesys Surround is built in alignment with **Microsoft's Responsible AI Standar
 - **No hidden automation**: No automated responses to customers without agent review and approval
 
 ### Customer Transparency
-Organisations should inform customers that AI is used to support agents. Genesys Surround does not directly interact with customers — the agent remains the communication interface.
+Organisations should inform customers that AI is used to support agents. Contact Center Foundry does not directly interact with customers — the agent remains the communication interface.
 
 ---
 

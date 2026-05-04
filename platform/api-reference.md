@@ -2,7 +2,7 @@
 
 ## Design Principles
 
-All Genesys Surround APIs follow these principles:
+All Contact Center Foundry APIs follow these principles:
 
 - **REST over HTTP/HTTPS** for synchronous request-response
 - **AsyncAPI / Azure Service Bus** for event-driven asynchronous patterns
@@ -72,7 +72,7 @@ Service-to-service calls use Managed Identity tokens (no secrets stored or trans
 
 ```json
 {
-  "type": "https://genesys-surround.example.com/errors/knowledge-not-found",
+  "type": "https://contact-center-foundry.example.com/errors/knowledge-not-found",
   "title": "Knowledge source not found",
   "status": 404,
   "detail": "The requested knowledge source 'servicenow-prod' is not configured for this tenant.",
