@@ -2,7 +2,7 @@
 
 ## Extension Points
 
-Genesys Surround is designed to be extended by enterprise teams and partners. The following extension points are supported:
+Contact Center Foundry is designed to be extended by enterprise teams and partners. The following extension points are supported:
 
 ---
 
@@ -24,7 +24,7 @@ Custom adapters are implemented as Azure Functions (Durable or HTTP-triggered) a
 ```python
 # Example adapter skeleton (Python / Azure Functions)
 import azure.functions as func
-from genesys_surround_sdk import UnifiedInteractionModel, InteractionEventPublisher
+from contactcenter_foundry_sdk import UnifiedInteractionModel, InteractionEventPublisher
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     raw_event = req.get_json()

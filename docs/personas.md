@@ -1,6 +1,6 @@
 # Personas & AI Journeys
 
-Genesys Surround is designed for every role in the contact center — not just agents. Each persona has specific needs, pain points, and AI-assisted workflows.
+Contact Center Foundry is designed for every role in the contact center — not just agents. Each persona has specific needs, pain points, and AI-assisted workflows.
 
 ---
 
@@ -184,7 +184,7 @@ Sets AI strategy, controls investment, and is accountable for outcomes. Needs st
 
 | Question | Answer |
 |---|---|
-| Replace our platform? | No. Genesys Surround wraps around existing systems. |
+| Replace our platform? | No. Contact Center Foundry wraps around existing systems. |
 | ROI timeline | Measurable efficiency gains within 60–90 days of Phase 1 |
 | Scalability | Each new CRM or channel integrated via standard adapters |
 | Ownership | Platform managed by your enterprise AI/cloud team |

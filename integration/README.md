@@ -2,7 +2,7 @@
 
 ## Integration Philosophy
 
-Genesys Surround integrates with existing systems by **wrapping around them** — never modifying them. Every integration follows these principles:
+Contact Center Foundry integrates with existing systems by **wrapping around them** — never modifying them. Every integration follows these principles:
 
 1. **API-first**: All integration via official, documented APIs
 2. **Event-driven**: Prefer asynchronous events over synchronous polling where possible

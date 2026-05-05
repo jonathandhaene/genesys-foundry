@@ -16,7 +16,7 @@ Both options share the same fatal flaw: **AI is treated as a feature of a system
 
 ## A Different Way of Thinking
 
-Genesys Surround is built on a different premise:
+Contact Center Foundry is built on a different premise:
 
 > **AI should sit above your systems — not inside them.**
 
@@ -48,7 +48,7 @@ Result: Average Handle Time = 8 minutes
         Compliance coverage: 5% of calls reviewed
 ```
 
-### Future State (With Genesys Surround)
+### Future State (With Contact Center Foundry)
 
 ```
 Agent John handles a call:
@@ -123,4 +123,4 @@ The destination is a contact center where AI is **as foundational as telephony o
 - Every compliance obligation is monitored automatically
 - Every system change is absorbed by the platform — not rebuilt from scratch
 
-**Genesys Surround is the path to that destination.**
+**Contact Center Foundry is the path to that destination.**

@@ -2,7 +2,7 @@
 
 ## Security Design Principles
 
-The Genesys Surround security model follows Microsoft's **Zero Trust** framework: never trust, always verify. Every request — whether from an agent, an integration, or a service — must be authenticated, authorised, and audited.
+The Contact Center Foundry security model follows Microsoft's **Zero Trust** framework: never trust, always verify. Every request — whether from an agent, an integration, or a service — must be authenticated, authorised, and audited.
 
 ---
 

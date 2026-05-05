@@ -1,12 +1,12 @@
-# Genesys Surround – AI Platform for Intelligent Contact Centers
+# Contact Center Foundry – AI Platform for Intelligent Contact Centers
 
 > **"A company does not need AI per contact center system — it needs a shared AI platform that surrounds all systems and scales across the enterprise."**
 
 ---
 
-## What Is Genesys Surround?
+## What Is Contact Center Foundry?
 
-**Genesys Surround** is a **platform-first, system-independent AI layer** designed to inject intelligent capabilities into contact center operations — across every communication channel and every supporting system — without modifying the underlying telephony or contact center infrastructure.
+**Contact Center Foundry** is a **platform-first, system-independent AI layer** designed to inject intelligent capabilities into contact center operations — across every communication channel and every supporting system — without modifying the underlying telephony or contact center infrastructure.
 
 It is a **surrounding AI platform** that wraps around your existing ecosystem:
 
@@ -27,7 +27,7 @@ Most vendors embed AI *inside* their product. This creates fragmentation:
 - Every system has its own model, its own knowledge, its own cost center
 - Migration or replacement of any system means rebuilding AI capabilities
 
-**Genesys Surround breaks this pattern.** By decoupling AI from each individual system:
+**Contact Center Foundry breaks this pattern.** By decoupling AI from each individual system:
 
 ✅ **One shared knowledge layer** — used by all agents, regardless of CRM  
 ✅ **One governance framework** — CISO/DPO-ready, applied everywhere  
@@ -94,7 +94,7 @@ Most vendors embed AI *inside* their product. This creates fragmentation:
 ## Repository Structure
 
 ```
-genesys-surround/
+contactcenter-foundry/
 ├── README.md                        ← You are here
 ├── docs/
 │   ├── architecture-overview.md     ← High-level architecture narrative

@@ -4,7 +4,7 @@
 
 In regulated industries — financial services, healthcare, public sector, insurance — every agent interaction carries compliance obligations. Traditional QA processes review only a small sample of interactions, leaving significant compliance risk undetected.
 
-Genesys Surround provides **AI-powered compliance monitoring and audit support** that achieves 100% interaction coverage, real-time compliance flagging, and a complete, tamper-evident audit trail.
+Contact Center Foundry provides **AI-powered compliance monitoring and audit support** that achieves 100% interaction coverage, real-time compliance flagging, and a complete, tamper-evident audit trail.
 
 ---
 

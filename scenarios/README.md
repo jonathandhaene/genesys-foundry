@@ -1,6 +1,6 @@
 # Scenarios & Use Cases
 
-This directory contains detailed use case documentation for the Genesys Surround platform, organised by persona and capability.
+This directory contains detailed use case documentation for the Contact Center Foundry platform, organised by persona and capability.
 
 ## Use Case Index
 

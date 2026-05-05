@@ -1,6 +1,6 @@
 # Business Case & Value
 
-This directory contains the business case materials for the Genesys Surround platform — designed for executive sponsors, finance teams, and digital transformation leads.
+This directory contains the business case materials for the Contact Center Foundry platform — designed for executive sponsors, finance teams, and digital transformation leads.
 
 ## Contents
 
@@ -12,7 +12,7 @@ This directory contains the business case materials for the Genesys Surround pla
 
 ## Summary Business Case
 
-Genesys Surround delivers measurable value across three dimensions:
+Contact Center Foundry delivers measurable value across three dimensions:
 
 ### Efficiency
 - Agents resolve issues faster with AI assistance (AHT reduction: 15–30%)

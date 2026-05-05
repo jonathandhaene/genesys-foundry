@@ -4,7 +4,7 @@
 
 Modern customers interact across many channels — often switching mid-journey. A customer may start with a web chat, send a follow-up email, and then call. Without a unified view, each agent sees a fragment of the customer story.
 
-Genesys Surround creates a **unified customer intelligence profile** that aggregates signals across all channels and CRM systems, providing agents and supervisors with a complete, real-time view of every customer relationship.
+Contact Center Foundry creates a **unified customer intelligence profile** that aggregates signals across all channels and CRM systems, providing agents and supervisors with a complete, real-time view of every customer relationship.
 
 ---
 
@@ -33,7 +33,7 @@ Agent C has no context. The customer must repeat themselves. Frustration escalat
 ## The Solution: Unified Customer Intelligence
 
 ```
-Customer Journey (With Genesys Surround)
+Customer Journey (With Contact Center Foundry)
                                        ┌──────────────────────────────────┐
 Monday: Web chat                        Agent A sees:                     │
 Tuesday: Email              ──────────► - Full interaction history         │

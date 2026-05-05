@@ -4,13 +4,13 @@
 
 Supervisors face an impossible task: manually monitoring dozens of concurrent interactions, identifying quality issues in real time, coaching agents based on sparse sampled data, and managing SLA compliance — all at once.
 
-Genesys Surround provides supervisors with **AI-powered intelligence** across the entire team interaction stream, transforming reactive supervision into proactive leadership.
+Contact Center Foundry provides supervisors with **AI-powered intelligence** across the entire team interaction stream, transforming reactive supervision into proactive leadership.
 
 ---
 
 ## Supervisor Pain Points Addressed
 
-| Pain Point | Traditional State | With Genesys Surround |
+| Pain Point | Traditional State | With Contact Center Foundry |
 |---|---|---|
 | Can only monitor 1–2 interactions at once | Miss most quality issues | AI monitors all interactions simultaneously |
 | Coaching based on small samples | Feedback is anecdotal | Evidence-based coaching on full data set |

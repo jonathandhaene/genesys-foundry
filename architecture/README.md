@@ -1,6 +1,6 @@
 # Architecture Reference Guide
 
-This directory contains the detailed reference architecture for the Genesys Surround platform.
+This directory contains the detailed reference architecture for the Contact Center Foundry platform.
 
 ## Contents
 
@@ -11,7 +11,7 @@ This directory contains the detailed reference architecture for the Genesys Surr
 
 ## Architecture Principles
 
-The Genesys Surround architecture is governed by the following core principles:
+The Contact Center Foundry architecture is governed by the following core principles:
 
 1. **Surround, don't embed** — AI wraps around existing systems via APIs and events
 2. **Loose coupling** — each platform component communicates through well-defined interfaces
@@ -54,7 +54,7 @@ The Genesys Surround architecture is governed by the following core principles:
 
 ## Deployment Topology
 
-Genesys Surround is deployed entirely in the **customer's Azure tenant** (or a dedicated enterprise AI tenant):
+Contact Center Foundry is deployed entirely in the **customer's Azure tenant** (or a dedicated enterprise AI tenant):
 
 - No shared infrastructure with Microsoft or integration vendors
 - Customer controls all data, keys, and model access

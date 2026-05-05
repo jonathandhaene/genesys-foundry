@@ -1,13 +1,13 @@
 # Architecture Diagrams
 
-This document describes the key reference architecture diagrams for Genesys Surround.
+This document describes the key reference architecture diagrams for Contact Center Foundry.
 Each diagram is described in text to enable rendering in any Markdown viewer or diagram tool (e.g., draw.io, Lucidchart, Mermaid, PowerPoint).
 
 ---
 
 ## Diagram 1: High-Level Platform Overview
 
-**Purpose**: Show how Genesys Surround sits between the contact center/CRM layer and the AI layer, acting as a system-independent intermediary.
+**Purpose**: Show how Contact Center Foundry sits between the contact center/CRM layer and the AI layer, acting as a system-independent intermediary.
 
 **Description**:
 
@@ -23,7 +23,7 @@ Each diagram is described in text to enable rendering in any Markdown viewer or 
           │ API / Events     │ Webhooks        │ Webhooks        │ API
           ▼                  ▼                 ▼                 ▼
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                      GENESYS SURROUND PLATFORM                              │
+│                      CONTACT CENTER FOUNDRY PLATFORM                              │
 │                                                                              │
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
 │  │                    INTERACTION LAYER                                 │   │
@@ -50,7 +50,7 @@ Each diagram is described in text to enable rendering in any Markdown viewer or 
                               └─────────────────┘
 ```
 
-**Key message**: Genesys Surround sits *between* the existing systems and the AI capabilities. Systems connect via APIs and events. Agents receive AI assistance through the Agent Companion UI.
+**Key message**: Contact Center Foundry sits *between* the existing systems and the AI capabilities. Systems connect via APIs and events. Agents receive AI assistance through the Agent Companion UI.
 
 ---
 
@@ -61,7 +61,7 @@ Each diagram is described in text to enable rendering in any Markdown viewer or 
 **Description**:
 
 ```
-Customer                Genesys             Genesys Surround           Agent Desktop
+Customer                Genesys             Contact Center Foundry           Agent Desktop
    │                      │                       │                         │
    │──── Calls/Chats ────▶│                       │                         │
    │                      │─── Interaction ──────▶│                         │
@@ -156,7 +156,7 @@ Enterprise Knowledge Sources
 
 ```
                     ┌──────────────────────────────────┐
-                    │    Genesys Surround Platform       │
+                    │    Contact Center Foundry Platform       │
                     │                                   │
                     │  ┌─────────────────────────────┐  │
                     │  │   Integration Adapter Layer  │  │

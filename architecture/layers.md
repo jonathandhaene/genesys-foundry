@@ -3,7 +3,7 @@
 ## Layer 1: Interaction Layer
 
 ### Purpose
-The Interaction Layer is the boundary between the external world and the Genesys Surround platform. It captures, normalises, and routes all interaction signals.
+The Interaction Layer is the boundary between the external world and the Contact Center Foundry platform. It captures, normalises, and routes all interaction signals.
 
 ### Components
 
